@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="c653e011-ad3d-2ce9-a0e7-0741514a25e8"/>
+            <attribute id="Name" type="LSString" value="Tavern"/>
+            <attribute id="UUID" type="LSString" value="fff63328-f6ab-1567-07a9-b477dabc9e35"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
